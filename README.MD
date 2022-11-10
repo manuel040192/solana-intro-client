@@ -1,6 +1,6 @@
 **Solana Intro Client**
 
-View exercises made in the development of the project by opening folders or clone exercises' files by switching to other branches.
+View exercises made in the development of the project by opening folders or clone exercises by switching to other branches.
 
 **Exercises:**
 
