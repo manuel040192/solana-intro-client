@@ -1,7 +1,6 @@
-**Solana Intro Client**
+**ping.program** 
 
-View exercises made in the development of the project by opening folders or clone exercises by switching to other branches.
+![This is an image](https://i.postimg.cc/G2GD56xT/ping-Program-function.png)
 
-**Exercises:**
+![This is an image](https://i.postimg.cc/nL67TnBt/Ping-program-Instruction-logs.png)
 
-**keypair.generate:** Initialization of an already existing keypair or generation of a new one. Creation of a .env file that contains a private key with File System.
