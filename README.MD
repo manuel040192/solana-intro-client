@@ -1,7 +1,9 @@
-**Solana Intro Client**
+**transfer.sol**
 
-View exercises made in the development of the project by opening folders or clone exercises by switching to other branches.
+Airdrop:
 
-**Exercises:**
+![This is an image](https://i.postimg.cc/ZnggyrkS/1-0-SOL-airdrop.png)
 
-**keypair.generate:** Initialization of an already existing keypair or generation of a new one. Creation of a .env file that contains a private key with File System.
+Transfer:
+
+![This is an image](https://i.postimg.cc/0jrFQVBn/0-1-SOL-transfer.png)
